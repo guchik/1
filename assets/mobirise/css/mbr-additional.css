@@ -1748,6 +1748,52 @@ a {
 .cid-slYzh3c8l5 H3 {
   text-align: right;
 }
+.cid-srUIDeaYyz {
+  padding-top: 105px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/background12.jpg");
+}
+.cid-srUIDeaYyz .mbr-section-title {
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  color: #e64e3b;
+  text-align: center;
+}
+.cid-srUIDeaYyz .nav {
+  border: none;
+}
+.cid-srUIDeaYyz .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-srUIDeaYyz .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #e64e3b;
+  font-style: normal;
+  font-weight: 500;
+  padding: 1rem 3rem;
+  margin: 0px -0.5px 1rem -0.5px;
+  transition: all .5s;
+  border-radius: 0px !important;
+  border-bottom: 1px solid #e64e3b;
+}
+.cid-srUIDeaYyz .nav-tabs .nav-link:hover {
+  border: 1px solid #e64e3b;
+  background-color: #e64e3b;
+  color: #ffffff;
+}
+.cid-srUIDeaYyz .nav-tabs .nav-link.active {
+  border: 1px solid #e64e3b;
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  background: #e64e3b;
+}
+.cid-srUIDeaYyz P {
+  text-align: center;
+}
 .cid-slYF9wRMn8 {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1861,50 +1907,4 @@ a {
     height: auto;
     padding: 6rem 2rem;
   }
-}
-.cid-srUIDeaYyz {
-  padding-top: 105px;
-  padding-bottom: 105px;
-  background-image: url("../../../assets/images/background12.jpg");
-}
-.cid-srUIDeaYyz .mbr-section-title {
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  color: #232323;
-  text-align: center;
-}
-.cid-srUIDeaYyz .nav {
-  border: none;
-}
-.cid-srUIDeaYyz .nav-tabs {
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-srUIDeaYyz .nav-tabs .nav-link {
-  box-sizing: border-box;
-  color: #232323;
-  font-style: normal;
-  font-weight: 500;
-  padding: 1rem 3rem;
-  margin: 0px -0.5px 1rem -0.5px;
-  transition: all .5s;
-  border-radius: 0px !important;
-  border-bottom: 1px solid #232323;
-}
-.cid-srUIDeaYyz .nav-tabs .nav-link:hover {
-  border: 1px solid #232323;
-  background-color: #232323;
-  color: #ffffff;
-}
-.cid-srUIDeaYyz .nav-tabs .nav-link.active {
-  border: 1px solid #232323;
-  font-weight: 500;
-  color: #ffffff;
-  font-style: normal;
-  background: #232323;
-}
-.cid-srUIDeaYyz P {
-  text-align: center;
 }
